@@ -14,7 +14,7 @@ body {
   }
   
   .flowers {
-    background-image: url(img/2.gif);
+    background-image: url(2.gif);
     background-size: cover;
     width: 150px;
     height: 150px;
